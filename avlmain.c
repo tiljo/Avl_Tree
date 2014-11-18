@@ -2,7 +2,7 @@
 
 #include"printTree.c"
 #include"printPaths.c"
-#include"1.c"
+#include"avlinsertion.h"
 //#include"avlinsertb.c"
 
 int main()
